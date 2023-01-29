@@ -1,0 +1,89 @@
+.head {
+    color: grey;
+    padding: 20px;
+
+}
+
+.b1 {
+    
+    /* position: relative; */
+    background-color: rgba(66, 185, 253, 255);
+    /* padding: 60px; */
+    color: white;
+  
+}
+
+
+.b12 {
+    margin: 2%;    
+    float: left;
+    background-color: rgba(100, 196, 247, 255);
+    
+}
+
+.b12 p {
+
+    font-size: small;
+}
+
+.b12 h2 {
+
+    font-size: x-large;
+}
+
+input[type=text] {
+
+    width: 330px;
+    border: none;
+    padding: 10px;
+
+}
+
+#butt {
+
+    background-color: orange;
+    width: 330px;
+    border: none;
+    color: white;
+    padding: 20px;
+}
+
+.sec2 {
+
+    color: grey;
+    /* position: relative;
+    padding-top: 50px;
+    height: 320px; */
+
+}
+
+
+
+.sec3 {
+
+    color: grey;
+    position: relative;
+    padding-top: 50px;
+    height: 400px;
+    background-color: rgba(241, 241, 241, 255);
+    height: 550px;
+
+}
+
+.CEO {
+    text-align: center;
+    /* position: absolute;
+    width: 650px;
+    left: 100px; */
+}
+
+.footer {
+    text-align: center;
+    color: grey;
+    /* float: left; */
+    /* padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 150px; */
+
+}
+
